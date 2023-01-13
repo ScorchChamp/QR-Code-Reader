@@ -1,0 +1,8 @@
+.app-container {
+    width: 50%;
+    margin-left: 25%;
+}
+
+#output-text {
+    margin-top: 25px;
+}
