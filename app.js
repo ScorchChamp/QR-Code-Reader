@@ -1,3 +1,5 @@
+
+window.addEventListener("load", function () {
 const outputElement = document.getElementById('output-text');
 
 function scanQRCodes() {
@@ -23,3 +25,4 @@ function scanQRCodes() {
     };
     reader.readAsDataURL(file);
 }
+});
